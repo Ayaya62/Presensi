@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color abu
+color black
+color black_cerah
+color black_cerah_bgt
+color black_gelap
+color blue
+color cyan
+color white
+drawable drawable_button
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cardView_date
+id cardView_time
+id date_and_time
+id date_picker_presensi
+id izin_spinner
+id keterangan_editText
+id presensi_button
+id time_picker_presensi
+id title_presensi
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Presensi
+style EDITTEXT
+style Theme.Presensi
+xml backup_rules
+xml data_extraction_rules
